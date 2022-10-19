@@ -1,0 +1,24 @@
+PROBLEMA
+Non sai cosa guardare su netflix...
+
+INIZIO
+Accendi la tv
+SE hai netflix installato:
+    -apri netflix
+ALTRIMENTI:
+    -scarica netflix
+    -apri netflix
+SE hai un account:
+    -effettua il login
+ALTRIMENTI:
+    -registrati
+    -effettua il login
+SE sai cosa guardare:
+    -guarda il film
+ALTRIMENTI:
+    -scorri nella pagina
+    SE hai trovato qualcosa da guardare:
+        -guard il film
+    ALTRIMENTI:
+        -cambia pagina
+FINE
